@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "589504627626",
+    "project_id": "desarrollo-movil-9629c",
+    "storage_bucket": "desarrollo-movil-9629c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589504627626:android:47c58bb2f24fccc825e1d3",
+        "android_client_info": {
+          "package_name": "com.example.sprint3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589504627626-rt55imrcveef89jan6co917fqvmjks6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzLJ-cKn270Ml-AcK4ko3qrFf2qn5U0Lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589504627626-rt55imrcveef89jan6co917fqvmjks6l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
